@@ -1,2 +1,2 @@
-# meiTuanBusinessChromeExtend
-个人上班的业务的针对性chrome插件
+#商务chrome扩展
+个人上班的业务的针对性的铬插件
